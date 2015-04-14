@@ -1,8 +1,0 @@
-<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
-	android:minWidth="120dp"
-	android:minHeight="30dp"
-	android:updatePeriodMillis="5000"
-	android:initialLayout="@layout/main"
-	android:textColor= "#000000"
-	android:resizeMode="horizontal|vertical" android:configure="com.example.vardadienuwidgets.Configure">
-</appwidget-provider> <!-- From: file:/C:/Users/ELINA/Desktop/PRAKSE/Widget/VardaDienuWidgets20151/app/src/main/res/xml/hswidget.xml -->

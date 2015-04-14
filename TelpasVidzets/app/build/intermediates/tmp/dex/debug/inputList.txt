@@ -1,2 +1,0 @@
-C:\Users\ELINA\Desktop\PRAKSE\Widget\VardaDienuWidgets20151\app\build\intermediates\classes\debug
-C:\Users\ELINA\Desktop\PRAKSE\Widget\VardaDienuWidgets20151\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-aeb83fc58f393292652530d314c6a124851d797d.jar
